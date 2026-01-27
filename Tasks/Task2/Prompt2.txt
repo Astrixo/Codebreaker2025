@@ -1,0 +1,7 @@
+With your help, the team concludes that there was clearly a sophisticated piece of malware installed on that endpoint that was generating some network traffic. Fortunately, DAFIN-SOC also has an IDS which retained the recent network traffic in this segment.
+
+DAFIN-SOC has provided a PCAP to analyze. Thoroughly evaluate the PCAP to identify potential malicious activity.
+
+Prompt:
+
+Submit all the IP addresses that are assigned to the malicious device, one per line
